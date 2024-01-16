@@ -1,0 +1,25 @@
+{
+	"MESSAGES": {
+		"SIGNED_IN": "Successfully signed in"
+	},
+	"MODULES": {
+		"AUTH": {
+			"PAGES": {
+				"SIGN_IN": {
+					"META": {
+						"TITLE": "Sign in - Website",
+						"DESCRIPTION": "Sign in page"
+					},
+					"FORM": {
+						"EMAIL": "Email",
+						"PASSWORD": "Password"
+					},
+					"CTA": {
+						"SUBMIT": "Sign in",
+						"FORGOT_PASSWORD": "Forgot password?"
+					}
+				}
+			}
+		}
+	}
+}

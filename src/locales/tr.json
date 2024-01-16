@@ -1,0 +1,25 @@
+{
+	"MESSAGES": {
+		"SIGNED_IN": "Başarıyla giriş yapıldı"
+	},
+	"MODULES": {
+		"AUTH": {
+			"PAGES": {
+				"SIGN_IN": {
+					"META": {
+						"TITLE": "Giriş yap - Website",
+						"DESCRIPTION": "Giriş yap sayfası"
+					},
+					"FORM": {
+						"EMAIL": "Email",
+						"PASSWORD": "Şifre"
+					},
+					"CTA": {
+						"SUBMIT": "Giriş yap",
+						"FORGOT_PASSWORD": "Şifremi unuttum?"
+					}
+				}
+			}
+		}
+	}
+}
